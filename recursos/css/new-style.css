@@ -1,0 +1,21 @@
+.img_mapa {
+  margin-top: 50PX;
+  width: 75%;
+  margin-bottom: 40px;
+}
+@media only screen and (min-width: 600px) {
+  .event-respo{
+    display: none;
+  }
+
+}
+@media only screen and (max-width: 600px) {
+  .event-desktop{
+display: none;
+  }
+  .img_mapa {
+    margin-top: 20PX;
+    width: 75%;
+    margin-bottom: 40px;
+}
+}
